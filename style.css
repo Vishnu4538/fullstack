@@ -1,0 +1,28 @@
+div.login 
+{ 
+    width:250px;
+    height:200px;
+    color: white;
+    display: inline-block;   
+    margin-left: 480px;
+    margin-top: 150px;
+    font-family: 'Times New Roman', Times, serif;
+        
+}
+
+input
+{
+
+border-radius: none;
+border-bottom: 2px solid white;
+color: white;
+
+    
+}
+
+body
+{
+   background-image: url(images/mainback.jpeg);
+}
+
+
